@@ -2,7 +2,7 @@
 
 ## **Vorlesung 1 13.3.2020**  
 Themen  
-* Einstieg  
+* [Einstieg] (https://pad.gwdg.de/-r6PYpRjScC-w0JuI_Ovcg?both)  
 * Virtuelle Maschine  
 * Unix Shell  
 * Markdown  
