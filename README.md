@@ -2,7 +2,7 @@
 
 ## **Vorlesung 1 13.3.2020**  
 Themen  
-* [Einstieg] (https://pad.gwdg.de/-r6PYpRjScC-w0JuI_Ovcg?both)  
+* Einstieg  
 * Virtuelle Maschine  
 * Unix Shell  
 * Markdown  
@@ -10,6 +10,8 @@ Themen
 
 Am 13.03.2020 fand unsere erste Vorlesung in Bibliotheks- und Archivinformatik statt, ich hatte mir zuvor keine Gedanken über den Unterricht gemacht und war sehr gespannt was wir hier alles lernen würden.
 Ich fand es sehr gut, dass zu Beginn der Vorlesung jeder seine persönlichen Erfahrungen teilen sollte, somit erhielte man einen Einblick aus welchen Bereichen alle Studierenden kommen. Ausserdem fand ich es gut, dass zu Beginn erklärt wurde auf welchen Grundlagen von bereits besuchten Vorlesungen das Modul aufgebaut ist.
+
+![Vorlesung](http://www.iconarchive.com/show/business-economic-icons-by-inipagi/strategy-icon.html) 
 
 ### **Virtuelle Maschine**
 
